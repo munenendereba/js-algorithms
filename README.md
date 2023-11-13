@@ -1,12 +1,12 @@
-# Bubble Sort in JavaScript
+# Some JavaScript Algorithms
 
 ## Problem
 
-Implement a function that sorts an array of numbers using the "bubble sort" algorithm.
+Implement Sorting, Memoization, and Dynamic Programming algorithms in JavaScript.
 
 ## Running
 
-Run using the following command: `node .\bubblesort.js`
+Run using the following command: `node .\[filename].js`
 
 ## Authors
 
